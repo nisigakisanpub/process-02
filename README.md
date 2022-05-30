@@ -1,7 +1,7 @@
 # 一人チーム
 
 Gistへのリンク  
-https://gist.github.com/nisigakisanpub/dc2791a030000b3b595184f6c9d40e8f
+https://gist.github.com/nisigakisanpub/33bcd08f5d9b4cef613f916a303eacf8
 
 ## 作業をその性格で分類してみた
 
